@@ -1,4 +1,4 @@
-# Magpie：把 Google 账号接入 Claude 与 Codex
+# Magpie：把 Google 账号接入 Claude 与 Codex，在其他agent中使用Gemini模型
 
 这是一份操作文档（也可作为可选 Skill），说明如何把本机用官方 `agy` 登录的 Google 账号所开放的模型，经 Magpie 接到 Claude Desktop、Claude Code 和 Codex。它不是 Magpie、Google、Anthropic 或 OpenAI 的官方产品，也不包含这些上游软件、账号或凭据，更不能让任意 Google 账号绕过订阅、地区、验证或额度限制。
 
